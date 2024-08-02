@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinicius-ricardoADS
-- 👀 I’m interested in back end programming
-- 🌱 I’m currently learning Node.js, React.js and Kotlin Android
+- 👀 I’m interested in full stack programming
+- 🌱 I’m currently learning Ionic, Vue.js and NestJS
 - 💞️ I’m looking to collaborate on college and related projects
 - 📫 How to reach me vinicius.ricardo@aluno.ifsp.edu.br
 
