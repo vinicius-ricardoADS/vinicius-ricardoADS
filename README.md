@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinicius-ricardoADS
 - 👀 I’m interested in full stack programming
-- 🌱 I’m currently learning Ionic, Vue.js and NestJS
+- 🌱 I’m currently learning Ionic, Vue.js and NestJS and Angular
 - 💞️ I’m looking to collaborate on college and related projects
 - 📫 How to reach me vinicius.ricardo@aluno.ifsp.edu.br
 
